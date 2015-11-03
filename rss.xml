@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Kathy Burke]]></title>
         <description><![CDATA[Kathy Burke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kathy-burke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 22:00:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 22:00:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kathy-burke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trust]]></title>
+            <description><![CDATA[<article><h1>Trust</h1><img src="https://s3.amazonaws.com/snappa-previews/UOGKIXQV79-preview.png?v=0"></article>]]></description>
+            <link>https://s3.amazonaws.com/snappa-previews/UOGKIXQV79-preview.png?v=0</link>
+            <guid isPermaLink="false">fa18e437-f4fe-4859-afd1-8811566dcd74</guid>
+            <pubDate>Tue, 03 Nov 2015 22:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc70444609bb89e8fc2d30141ead861b/insta_1977.jpg?input=http%3A%2F%2Fwww.gratisography.com%2Fpictures%2F213_1.jpg&width=700&height=467">]]></description>
+            <link>https://thegrid.ai/kathy-burke/89610007-54b2-40f2-8a7b-be9c6055b330/index.html</link>
+            <guid isPermaLink="false">89610007-54b2-40f2-8a7b-be9c6055b330</guid>
+            <pubDate>Tue, 03 Nov 2015 22:00:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.gratisography.com/pictures/198_1.jpg">]]></description>
-            <link>undefined36b2667b-db84-46d1-9510-a9f03cf59e25/index.html</link>
+            <link>https://thegrid.ai/kathy-burke/36b2667b-db84-46d1-9510-a9f03cf59e25/index.html</link>
             <guid isPermaLink="false">36b2667b-db84-46d1-9510-a9f03cf59e25</guid>
             <pubDate>Tue, 03 Nov 2015 22:00:25 GMT</pubDate>
         </item>
