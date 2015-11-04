@@ -1,9 +1,21 @@
 layout_spectrum: 0.1340114
-typography_spectrum: 0
+name: Kathy Burke
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.7257472
   brandStrength: 0.8389544
-  saturation: 0.853069
+  lightness: 0.1290051
+  saturation: 0.1543002
   rhythmicContrast: 0.06523847
   brandColors:
     - '#162017'
@@ -11,4 +23,4 @@ color:
     - '#E9EAF1'
     - '#9BB4D8'
     - '#BDCD27'
-name: Kathy Burke
+typography_spectrum: 0.5
